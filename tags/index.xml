@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Радиология и анализ данных</title>
-    <link>https://example.com/tags/</link>
+    <link>https://mishaberegov.github.io/website/tags/</link>
     <description>Recent content in Tags on Радиология и анализ данных</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mishaberegov.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://mishaberegov.github.io/website/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://mishaberegov.github.io/website/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://mishaberegov.github.io/website/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://mishaberegov.github.io/website/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://mishaberegov.github.io/website/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://mishaberegov.github.io/website/tags/markdown/</guid>
       <description></description>
     </item>
     

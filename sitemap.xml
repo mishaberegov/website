@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://mishaberegov.github.io/website/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://mishaberegov.github.io/website/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://mishaberegov.github.io/website/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://mishaberegov.github.io/website/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/markdown-syntax-guide/</loc>
+    <loc>https://mishaberegov.github.io/website/posts/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://mishaberegov.github.io/website/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://mishaberegov.github.io/website/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://mishaberegov.github.io/website/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://mishaberegov.github.io/website/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://mishaberegov.github.io/website/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://mishaberegov.github.io/website/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
