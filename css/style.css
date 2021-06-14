@@ -74,7 +74,8 @@ tr:nth-child(odd)>td {
 
 h1,
 h2,
-h3 {
+h3, 
+h4 {
   font-weight: 400;
 }
 p {
@@ -153,7 +154,7 @@ nav.navigation a.button {
   color: #fff;
   margin-left: 12px;
 }
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   nav.navigation {
     padding: 20px 10px 0 0;
     background: #fff;
@@ -161,6 +162,7 @@ nav.navigation a.button {
     margin: 0 auto;
     text-align: right;
     z-index: 100;
+    font-size:  14px;
   }
   nav.navigation a {
     top: 8px;
@@ -171,11 +173,12 @@ nav.navigation a.button {
     line-height: 1.35;
     border-radius: 3px;
   }
-}
-
-@media (max-width: 324px) {
-  nav.navigation a.button {
-    display: none;
+  body {
+  font: normal 16px/1.6em 'Georgia', Helvetica, Arial, sans-serif;
+  line-height: 1;
+  color: #404040;
+  line-height: 1.75;
+  letter-spacing: 0.008em;
   }
 }
 
@@ -247,6 +250,15 @@ nav.navigation a.button {
   font-weight: 300;
   color: #757575;
   margin-top: 0;
+}
+
+@media (max-width: 600px) {
+    .profile h1 {
+        font-size: 20px;
+    }
+    .profile h2 {
+        font-size: 18px;
+    }
 }
 
 /* index post list */
@@ -332,7 +344,7 @@ nav.navigation a.button {
   line-height: 48px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   #single {
     padding: 0 10px;
     margin: 20px auto 0 auto;

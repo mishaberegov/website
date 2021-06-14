@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Радиология и анализ данных</title>
-    <link>https://mishaberegov.github.io/categories/</link>
+    <link>https://mri.moscow/categories/</link>
     <description>Recent content in Categories on Радиология и анализ данных</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mishaberegov.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mri.moscow/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://mishaberegov.github.io/categories/syntax/</link>
+      <link>https://mri.moscow/categories/syntax/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mishaberegov.github.io/categories/syntax/</guid>
+      <guid>https://mri.moscow/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://mishaberegov.github.io/categories/themes/</link>
+      <link>https://mri.moscow/categories/themes/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mishaberegov.github.io/categories/themes/</guid>
+      <guid>https://mri.moscow/categories/themes/</guid>
       <description></description>
     </item>
     
